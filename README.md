@@ -26,7 +26,7 @@ UsersBox - это Telegram-бот (**В НАСТОЯЩЕЕ ВРЕМЯ НЕ РА�
 
 | Метки  | Ссылка | Описание  |
 |----------|------------------------------------------------------------------|----------------------------------------|
-| 📲🪙🆓|  [Sherlock](https://t.me/Sreshulya_bot?start=_ref_9pyalm_JJwlz5) | Отличный новый бот с низкими ценами.|
+| 📲🪙🆓|  [Sherlock](https://t.me/sharlokk_bot?start=_ref_9pyalm_JJwlz5) | Отличный новый бот с низкими ценами.|
 | 📲♻️🆓|  [Vektor](https://t.me/nayti_po_imeni_bot?start=r_eFGr1BT2b5)          | Новый бот с хорошими базами для поиска.|
 | 📲🪙   |  [Enigma](https://t.me/stariesxbot?start=C96FP5YS)           | Бот для поиска и анализа информации, с уникальными базами.|
 | 📲🪙   |  [Himera](https://t.me/HimeraBl8gVsv5uhYG_Search_bot?start=406840159)       | Бот работающий по законам РФ, но из-за этого дороговат, в сравнении с другими.|
